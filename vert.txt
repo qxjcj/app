@@ -1,0 +1,13 @@
+<DL><p>
+    <DT><A HREF="http://www.tuicool.com/articles/e67vUj" ADD_DATE="1462526402" LAST_VISIT="1462795818" LAST_MODIFIED="1462795818" ICON_URI="http://static0.tuicool.com/favicon.ico" >Vert.x 线程模型揭秘 - 推酷.url</A>
+    <DT><A HREF="http://www.tuicool.com/articles/3e2miaM" ADD_DATE="1462504305" LAST_VISIT="1462795806" LAST_MODIFIED="1462505101" ICON_URI="http://static0.tuicool.com/favicon.ico" >Vert.x3异步框架实战 - 推酷.url</A>
+    <DT><A HREF="http://baike.baidu.com/link?url=VReOI8tNzWSq3naYd5c58yhhmc45dOt-z4jE3BsLvrx_KDRZMDMjd0loKuDtK-NEPrgW9yhV_DyN62SB26Q62K" ADD_DATE="1462502526" LAST_VISIT="1462795806" LAST_MODIFIED="1462502526" ICON_URI="http://baike.baidu.com/favicon.ico" >Vert.x_百度百科.url</A>
+    <DT><A HREF="http://www.fwqtg.net/vert-x%E4%B8%ADeventbus%E4%B8%AD%E7%9A%84%E4%BD%BF%E7%94%A8.html" ADD_DATE="1462508610" LAST_VISIT="1462795806" LAST_MODIFIED="1462508610" >Vert.x中EventBus中的使用.url</A>
+    <DT><A HREF="http://www.cnblogs.com/huligong1234/p/4983869.html" ADD_DATE="1461811674" LAST_VISIT="1462795812" LAST_MODIFIED="1462795812" ICON_URI="http://www.cnblogs.com/favicon.ico" >Vert.x入门体验 - 一片相思林 - 博客园.url</A>
+    <DT><A HREF="http://blog.csdn.net/sdyy321/article/details/42523467" ADD_DATE="1461920376" LAST_VISIT="1462795806" LAST_MODIFIED="1462351660" ICON_URI="http://blog.csdn.net/favicon.ico" >Vert.x特性 - 清风抚白杨 - 博客频道 - CSDN.NET.url</A>
+    <DT><A HREF="http://forever.blog.chinaunix.net/uid-21209537-id-3452179.html" ADD_DATE="1461808807" LAST_VISIT="1462795806" LAST_MODIFIED="1462409052" ICON_URI="http://forever.blog.chinaunix.net/favicon.ico" >vertx 安装教程Hello World-tkchks-ChinaUnix博客.url</A>
+    <DT><A HREF="http://www.jdon.com/concurrent/vertx.html" ADD_DATE="1461813053" LAST_VISIT="1462795821" LAST_MODIFIED="1462795821" ICON_URI="http://www.jdon.com/favicon.ico" >Vertx入门教程 -解道Jdon.url</A>
+    <DT><A HREF="http://www.jdon.com/soa/restful-vertx.html" ADD_DATE="1462525048" LAST_VISIT="1462795806" LAST_MODIFIED="1462525048" ICON_URI="http://www.jdon.com/favicon.ico" >使用vert.x 2.0, RxJava 和 mongoDB创建一个简单的RESTful服务 -解道Jdon.url</A>
+    <DT><A HREF="http://www.csdn.net/article/2015-05-20/2824733-Java" ADD_DATE="1462503600" LAST_VISIT="1462795806" LAST_MODIFIED="1462503600" >关于Java框架Vert.x的几点思考-CSDN.NET.url</A>
+    <DT><A HREF="http://liuxiaofan.com/2015/08/21/2993.html" ADD_DATE="1462526416" LAST_VISIT="1462795806" LAST_MODIFIED="1462526416" >如何基于Vert.x实现远程调用？ – 爱前端.url</A>
+</DL><p>
